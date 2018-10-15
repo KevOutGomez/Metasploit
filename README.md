@@ -10,6 +10,9 @@ Para instalar **Metasploit** es necesario ejecutar los siguientes comandos:
 
 ```bash
 sudo yum -y install ruby-irb rubygems rubygem-bigdecimal rubygem-rake rubygem-i18n ruby-devel libpcap-devel postgresql-server postgresql-devel
+```
+
+```bash
 curl https://raw.githubusercontent.com/rapid7/metasploit-omnibus/master/config/templates/metasploit-framework-wrappers/msfupdate.erb > msfinstall && \
   chmod 755 msfinstall && \
   ./msfinstall
