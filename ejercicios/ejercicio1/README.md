@@ -1,4 +1,4 @@
-# Ejericio 1 (Primer Exploit)
+# Ejercicio 1 (Primer Exploit)
 
 ## Exploit Activo
 
